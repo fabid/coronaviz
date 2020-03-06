@@ -9,3 +9,5 @@ Using data from:
 
 [Interative version](https://www.datamaplab.com/viz/japan_coronavirus_network.html) 
 
+![](japan_map.png)
+
